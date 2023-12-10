@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">word_game</string>
+    <string name="try_again">Thử lại</string>
+    <string name="congratulations">Chúc mừng</string>
+    <string name="you_scored">Điểm của bạn %d</string>
+    <string name="exit">Thoát</string>
+    <string name="play_again">Chơi lại</string>
+    <string name="score">Điểm: %d</string>
+    <string name="word_count">%d trên %d từ</string>
+</resources>
